@@ -263,7 +263,7 @@ Next, we'll update the parent component to use this new argument.
       @userIsActive={{message.active}}
       @userLocaltime={{message.localTime}}
     >
-      {{{message.content}}}
+      {{message.content}}
     </Message>
   {{/each}}
 
