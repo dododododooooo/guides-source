@@ -1,3 +1,4 @@
+<<< message.hbs must be first defined >>>
 Oftentimes we'll need to repeat a component multiple times in a row, with
 different data for each usage of the component. We can use the
 [`{{#each}}`](https://api.emberjs.com/ember/release/classes/Ember.Templates.helpers/methods/each?anchor=each)
